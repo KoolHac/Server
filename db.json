@@ -1,0 +1,14 @@
+{
+    "users":[
+        {
+           "name":"sam",
+            "type":"member",
+            "code":100
+        },
+        {
+            "name":"karan",
+            "type":"VIP",
+            "code":200
+        }
+    ]
+}

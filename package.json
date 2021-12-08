@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Json API",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoolHac/Server.git"
+  },
+  "author": "Karanveer Singh Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoolHac/Server/issues"
+  },
+  "homepage": "https://github.com/KoolHac/Server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
